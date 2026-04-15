@@ -13,36 +13,7 @@ User story generation
 Requirements documentation
 Success metrics definition
 
-🔍 User Research
-Feedback analysis and categorization
-User interview synthesis
-Survey result analysis
-Insight extraction
 
-📊 Competitive Analysis
-Feature comparison frameworks
-Market positioning analysis
-SWOT generation
-Competitive intelligence gathering
-
-🎯 Strategy Development
-Roadmap planning prompts
-Strategic document feedback
-Vision statement generation
-OKR development
-
-⚙️ Feature Specifications
-Technical specification templates
-API documentation generation
-Integration planning
-Edge case identification
-
-🚀 Quick Start
-Browse the folders above to find relevant prompts
-Copy the prompt template
-Customize bracketed [] sections with your details
-Paste into your preferred AI tool (ChatGPT, Claude, etc.)
-Iterate based on results
 
 💡 Usage Tips
 Start with the base template and adjust for your context

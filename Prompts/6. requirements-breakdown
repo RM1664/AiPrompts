@@ -1,0 +1,32 @@
+Purpose
+Decompose high-level requirements into actionable deliverables.
+
+Inputs
+
+Feature description
+Business goals
+Constraints
+
+Prompt
+
+Act as a senior Business Analyst.
+
+Break down the following feature into detailed requirements:
+{feature_description}
+
+Ensure:
+1. Functional and non-functional requirements are separated
+2. Requirements are atomic and testable
+3. Dependencies between requirements are identified
+4. Each requirement includes rationale
+
+Also classify:
+- Priority (High/Medium/Low)
+- Complexity (Simple/Moderate/Complex)
+
+Outputs
+
+Functional requirements
+Non-functional requirements
+Priority & complexity
+Dependencies

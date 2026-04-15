@@ -1,0 +1,17 @@
+Act as a Project Manager.
+
+Define a Definition of Done for:
+{project_type}
+
+Ensure it includes:
+1. Development completion criteria
+2. Testing requirements
+3. Documentation updates
+4. Stakeholder approvals
+5. Deployment readiness
+
+Make it actionable and measurable.
+
+Outputs
+
+DoD checklist

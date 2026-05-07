@@ -11,7 +11,7 @@ User story generation
 Requirements documentation
 
 🛠️ Tools Tested With
-✅ ChatGPT (GPT-4, GPT-3.5)
-✅ Claude (3.5 Sonnet)
+✅ ChatGPT 
+✅ Claude (4.6 Sonnet)
 ✅ CoPilot 
 
